@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
