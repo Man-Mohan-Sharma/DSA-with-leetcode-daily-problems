@@ -23,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0203-remove-linked-list-elements) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
