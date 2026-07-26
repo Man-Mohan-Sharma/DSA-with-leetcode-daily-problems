@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0070-climbing-stairs) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0198-house-robber) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0062-unique-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 ## Counting
 |  |
