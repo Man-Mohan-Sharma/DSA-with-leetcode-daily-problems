@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Matrix
 |  |
