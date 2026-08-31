@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
+| [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0347-top-k-frequent-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0347-top-k-frequent-elements) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0203-remove-linked-list-elements) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
@@ -237,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
