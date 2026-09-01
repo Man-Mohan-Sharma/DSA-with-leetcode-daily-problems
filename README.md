@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -244,15 +245,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Floyd's Cycle Finding Algorithm
 |  |
