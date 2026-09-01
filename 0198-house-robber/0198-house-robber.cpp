@@ -1,11 +1,12 @@
 class Solution {
 public:
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size()+1,0);
-        dp[1] = nums[0];
+        int first = 0, second = nums[0], thrid = 0;
         for(int i = 1; i<nums.size(); i++){
-            dp[i+1] = max(nums[i]+dp[i-1],dp[i]);
+            thrid = max(nums[i]+first,second);
+            first = second;
+            second = thrid;
         }
-        return dp[nums.size()];
+        return second;
     }
 };
