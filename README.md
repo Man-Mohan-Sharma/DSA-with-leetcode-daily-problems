@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0200-number-of-islands) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0169-majority-element) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
