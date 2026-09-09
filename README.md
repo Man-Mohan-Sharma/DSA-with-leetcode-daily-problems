@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0189-rotate-array) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
