@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0063-unique-paths-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
