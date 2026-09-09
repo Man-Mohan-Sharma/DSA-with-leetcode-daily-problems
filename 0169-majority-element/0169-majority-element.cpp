@@ -4,15 +4,12 @@ public:
         int count = 0, pre = -1;
         for(auto& i : nums){
             if(count == 0){
-                pre = i;
                 count++;
+                pre = i;
             }
-            else if(count >0){
-                if(pre==i)  count++;
-                else count--;
+            else if(pre == i) count++;
+            else count--;
             }
-            else count = 0;
+            return pre;
         }
-        return pre;
-    }
 };
