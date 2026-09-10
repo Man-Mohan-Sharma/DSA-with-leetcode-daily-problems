@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -289,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
 | ------- |
