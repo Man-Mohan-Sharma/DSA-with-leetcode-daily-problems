@@ -2,7 +2,6 @@ class Solution {
 public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size(), m = matrix[0].size();
-        vector<int> row(n,0) , column(m,0);
         bool setrow = false, setcolumn = false;
         for(int i = 0; i<n; i++){
             if(matrix[i][0] == 0){
