@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0136-single-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
