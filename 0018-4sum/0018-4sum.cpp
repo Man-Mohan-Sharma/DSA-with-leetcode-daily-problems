@@ -1,22 +1,28 @@
 class Solution {
 public:
     vector<vector<int>> fourSum(vector<int>& nums, int target) {
-        set<vector<int>> st;
+        vector<vector<int>> ans;
+        sort(nums.begin(),nums.end());
         for(int i = 0; i<nums.size(); i++){
+            if(i>0&&nums[i]==nums[i-1]) continue;
             for(int j = i+1; j<nums.size(); j++){
-                unordered_map<long long,int> hash;
-                long long sum = 1LL*target-nums[i]-nums[j];
-                for(int k = j+1; k<nums.size(); k++){
-                    long long rem = (sum-nums[k]);
-                    if(hash.find(rem)!=hash.end()){
-                        vector<int> temp = {nums[i],nums[j],nums[k],nums[hash[rem]]};
-                        sort(temp.begin(),temp.end());
-                        st.insert(temp);
+                if(j>i+1 && nums[j]==nums[j-1]) continue;
+                int k = j+1, h = nums.size()-1;
+                while(k<h){
+                    long long sum = (long long)nums[i]+nums[j]+nums[k]+nums[h];
+                    if(sum>target) h--;
+                    else if(sum<target) k++;
+                    else{
+                        ans.push_back({nums[i],nums[j],nums[k],nums[h]});
+                        k++;
+                        h--;
+                        while(k<h&&nums[k]==nums[k-1]) k++;
+                        while(k<h && nums[h]==nums[h+1]) h--;
                     }
-                    hash[nums[k]] = k;
                 }
+                
             }
         }
-        return vector<vector<int>>(st.begin(),st.end());
+        return ans;
     }
 };
