@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0486-predict-the-winner) |
 | [0940-distinct-subsequences-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0940-distinct-subsequences-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Bit Manipulation
