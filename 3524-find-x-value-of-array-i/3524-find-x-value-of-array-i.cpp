@@ -7,7 +7,7 @@ public:
         vector<long long> count(k,0);
         count[nums[i]%k]++;
         for(int oldrem = 0; oldrem<k; oldrem++){
-            int newrem = ((long long) oldrem*nums[i]%k)%k;
+            int newrem = (oldrem*(nums[i]%k))%k;
             count[newrem]+=pre[oldrem];
         }
         pre = count;
