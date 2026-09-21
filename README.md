@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3903-smallest-stable-index-i) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3524-find-x-value-of-array-i](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3524-find-x-value-of-array-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3524-find-x-value-of-array-i](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3524-find-x-value-of-array-i) |
 ## Number Theory
 |  |
 | ------- |
