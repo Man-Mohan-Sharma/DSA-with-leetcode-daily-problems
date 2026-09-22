@@ -1,15 +1,20 @@
 class Solution {
 public:
     vector<int> findMissingAndRepeatedValues(vector<vector<int>>& grid) {
-        int n = grid.size();
-        vector<int> frq(n*n+1,0);
-        for(auto& i : grid) 
-            for(auto& j: i) frq[j]+=1;
-        int a, b;
-        for(int i = 1; i<=n*n; i++){
-            if(frq[i]==0) b = i;
-            if(frq[i]==2) a = i;
+        long long n = grid.size();
+        long long totalsum = 0, givensum = 0, sqsum = 0, sqgiven = 0;
+        for(auto& i : grid){
+            for(auto& j : i){
+                givensum+=j;
+                sqgiven+=j*j;
+            }
         }
-        return {a,b};
+        totalsum = n*n*(n*n+1)/2;
+        sqsum = n*n*(n*n+1)*(2*n*n+1)/6;
+        long long sumdiff = totalsum-givensum;
+        long long sqdiff = sqsum-sqgiven;
+        sqdiff = sqdiff/sumdiff;
+        int b = (sumdiff+sqdiff)/2;
+        return {(int)sqdiff-b,b};
     }
 };
