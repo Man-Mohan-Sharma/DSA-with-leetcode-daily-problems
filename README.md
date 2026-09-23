@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1534-count-good-triplets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1534-count-good-triplets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3312-sorted-gcd-pair-queries) |
