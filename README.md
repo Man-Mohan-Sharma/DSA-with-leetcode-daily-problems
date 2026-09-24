@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0486-predict-the-winner) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
