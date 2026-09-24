@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1399-count-largest-group) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -292,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |
