@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0835-image-overlap) |
+| [0875-koko-eating-bananas](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0875-koko-eating-bananas) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
