@@ -3,7 +3,7 @@ private:
     long long find(vector<int>& piles, int k){
         long long  total = 0;
         for(auto& i : piles){
-            total+= ceil(double(i)/double(k));
+            total+= (i+k-1)/k;
         }
         return total;
     }
