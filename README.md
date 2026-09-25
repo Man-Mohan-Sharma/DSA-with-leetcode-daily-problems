@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1399-count-largest-group](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1399-count-largest-group) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [0940-distinct-subsequences-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -357,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -420,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
