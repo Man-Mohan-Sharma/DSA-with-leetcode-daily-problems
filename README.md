@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
@@ -434,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
