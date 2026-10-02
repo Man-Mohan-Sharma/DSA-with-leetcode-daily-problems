@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
+| [0205-isomorphic-strings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
