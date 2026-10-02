@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0063-unique-paths-ii) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0072-edit-distance) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
@@ -440,10 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
