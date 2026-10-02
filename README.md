@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0283-move-zeroes) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0072-edit-distance) |
+| [0125-valid-palindrome](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
