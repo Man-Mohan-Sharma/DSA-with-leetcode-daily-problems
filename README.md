@@ -267,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0721-accounts-merge](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0721-accounts-merge) |
 | [0856-score-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -460,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
