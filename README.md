@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0205-isomorphic-strings) |
+| [0290-word-pattern](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0438-find-all-anagrams-in-a-string) |
