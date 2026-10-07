@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1399-count-largest-group](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1399-count-largest-group) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1688-count-of-matches-in-tournament](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/1688-count-of-matches-in-tournament) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3498-reverse-degree-of-a-string](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Man-Mohan-Sharma/DSA-with-leetcode-daily-problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
